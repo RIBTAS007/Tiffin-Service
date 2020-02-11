@@ -1,0 +1,6 @@
+<div style="position:fixed;  right: 0; bottom: 0; left: 0; padding: 1rem;  text-align: center; color:#e22b28;font-size:20px;">
+                         <b> Foodureca &copy;2017 All Rights Reserved </b>
+            
+                      </div>
+
+** Above is the code for the footer tag. if the footer overlaps with other text of the body then remove "position:fixed;" from the style section.
